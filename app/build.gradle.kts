@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "bo.edu.uajms.sistemasbjo.programacionmovil.vegaf.examen1"
-    compileSdk = 35
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "bo.edu.uajms.sistemasbjo.programacionmovil.vegaf.examen1"
